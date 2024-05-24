@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ipsita Panda</h1>
-<h3 align="center">I'm a passionate Product Manager with over 10 years of experience in driving product vision, strategy, and execution. My expertise lies in bridging the gap between technology and business, ensuring that products not only meet market needs but also exceed user expectations.</h3>
+<h3 align="left">I'm a passionate Product Manager with over 10 years of experience in driving product vision, strategy, and execution. My expertise lies in bridging the gap between technology and business, ensuring that products not only meet market needs but also exceed user expectations.</h3>
 
 - 🔭 I’m currently working on **AI and ML Projects**
 
